@@ -14,12 +14,12 @@ This is a basic C++ calculator program that performs arithmetic operations (+, -
 1. Compile the program using a C++ compiler:
 
    ```bash
-   g++ simpleCalculator.cpp -o simpleCalculator
+   g++ simpleCalculator.cpp -o simpleCalculator.exe
     ```
 2. Run the executable:
 
     ```bash
-    ./simpleCalculator
+    ./simpleCalculator.exe
     ```
 3. Follow the on-screen prompts:
 
