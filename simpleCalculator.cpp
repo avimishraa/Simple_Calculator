@@ -18,6 +18,6 @@ int main() {
         case '/': cout << num1 / num2; break;
         default: cout << "Error! operator is not correct";
     }
-
+ 
     return 0;
 }
